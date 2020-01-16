@@ -4,3 +4,4 @@ Astrophysics
 second
 Macomb, MI
 Intermediate Experience
+Zach Harless harlessz@msu.edu
